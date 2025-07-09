@@ -1,0 +1,8 @@
+{
+  "Structure ID": "L200",
+  "Structure Name": "Bullish Trend Pullback Confirmation",
+  "Match": true,
+  "Pattern Expression": "L↗ S↓ K↘L⊥↗",
+  "Description": "Long-term bullish trend, short-term decline, current candlestick rebounds after pulling back to L support",
+  "Analysis Source": "AI Model / Manual Annotation"
+}
